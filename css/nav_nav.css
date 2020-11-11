@@ -1,0 +1,75 @@
+em{
+    font-style: normal;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}
+
+textarea{
+    resize: none;
+}
+
+body{
+    width: 450px;
+    height: 850px;
+    margin: 0 auto;
+}
+
+
+#div1{
+    height: 100px;
+    width: 380px;
+    margin: 250px 80px;
+}
+
+.div1_top{
+    width: 100%;
+    height: 50px;
+}
+
+.p1{
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.div1_bot{
+    width: 100%;
+    height: 50px;
+}
+
+.dlzc{
+    margin-top: 20px;
+    height: 40px;
+    width: 50px;
+    float: left;
+    margin-left: 20px;
+    font-size: 18px;
+    color: #00a862;
+    line-height: 38px;
+    text-align: center;
+    user-select: none;/*-文字不被选中-*/
+    cursor:pointer;/*鼠标悬浮大拇指*/
+}
+
+.zcbk{
+    border: 1px solid #6de36d;
+    border-radius: 25px;
+}
+
+.div1_bot a{
+    color: black !important;
+}
+
+.div1_bot a:hover{
+    text-decoration: none;
+}

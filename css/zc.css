@@ -1,0 +1,56 @@
+em{
+    font-style: normal;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}
+
+textarea{
+    resize: none;
+}
+
+.div_zc{
+    width: 100%;
+    height: 450px;
+    background-color: white;
+}
+
+.div_zc_wz{
+    width: 480px;
+    height: 130px;
+    position: relative;
+    top:150px;
+    left: 160px;
+}
+
+img.sj{
+    width: 193px;
+    height: 409px;
+}
+
+.p_syxbk{
+    font-size: 22px;
+}
+
+.div_zc_img{
+    width: 193px;
+    height: 409px;
+    position: relative;
+    top:-110px;
+    left:680px;
+}
+
+a{
+    text-decoration: none;
+    color: #00a862;
+}

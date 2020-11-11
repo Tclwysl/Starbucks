@@ -1,0 +1,149 @@
+em{
+    font-style: normal;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}
+
+textarea{
+    resize: none;
+}
+
+.nav_body2_bot2 a{
+    color: #6de36d !important;
+}
+
+.nav_body2_bot2 a:hover{
+    text-decoration: none;
+}
+
+body{
+    width: 450px;
+    height: 950px;
+    margin: 0 auto;
+}
+
+.logo{
+    float: left;
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+div#nav_top{
+    width: 100%;
+    height: 100px;
+}
+
+div#nav_body{
+    width: 100%;
+    height: 850px;
+}
+
+div#nav_body2{
+    width: 100%;
+    height: 850px;
+    display: none;
+}
+
+.nav_top_nav{
+    margin-top: 25px;
+    float: left;
+    margin-left: 20px;
+}
+
+ul.ul1 li{
+    float: left;
+    width: 80px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+ul.ul1 li a{
+    color: black;
+}
+
+div.kz{
+    width: 50px;
+    height: 100px;
+    position: absolute;
+    top:0;
+    left:80%;
+}
+
+img.kz{
+    height: 25px;
+    width: 25px;
+    position: relative;
+    top:30px;
+    left: 40px;
+}
+
+.nav_body2_top{
+    position: relative;
+    top:20px;
+    height: 150px;
+    width: 100%;
+}
+
+.nav_body2_body{
+    position: relative;
+    top:20px;
+}
+
+.nav_body2_bot{
+    position: relative;
+    top:10px;
+}
+
+.nav_body2_bot2{
+    width: 200px;
+    margin: 0 140px;
+}
+
+.nav_nav_nav ul{
+
+}
+
+.nav_nav_nav li{
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    user-select: none;/*-文字不被选中-*/
+    cursor:pointer;/*鼠标悬浮大拇指*/
+}
+
+.b{
+    width: 400px;
+    margin: 0 auto;
+}
+
+
+.yc{
+    display: none !important;
+}
+
+.xs{
+    display: block !important;
+}
+
+iframe#iframe2{
+    visibility: visible;
+}
